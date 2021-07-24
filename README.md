@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=douking&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=douking&show_icons=true&hide_title=true&hide_border=true" />
 
 ### Hello, world! 👋
 
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douking&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=douking&theme=github)
