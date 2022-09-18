@@ -1,4 +1,4 @@
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douking&theme=github" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douking&theme=solarized" />
 
 ### Hello, world! 👋
 
