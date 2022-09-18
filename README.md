@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=douking&show_icons=true&icon_color=5476ff&text_color=505761&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douking&theme=github" />
 
 ### Hello, world! 👋
 
