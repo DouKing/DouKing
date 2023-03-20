@@ -6,6 +6,7 @@
  -->
 ### Hello, world! 👋
 
+<!--
 ```
   __,
  (           o  /) _/_
@@ -14,10 +15,13 @@
              /)
             (/
 ```
+-->
+
+<!--
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=douking&show_icons=true&icon_color=5476ff&text_color=505761&hide_title=true&hide_border=true" alt="DouKing's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douking&layout=compact&icon_color=5476ff&text_color=505761&hide_border=true" /> |
 | ------------- | ------------- |
-
+-->
 
 <!--
 **DouKing/DouKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
